@@ -4,9 +4,6 @@ x = input('Enter the value of the first function x[n] :'); %taking user input fo
 y = input('Enter the value of the second function y[n] :'); %taking user input for second function y[n]
 computation (x,y);
 
-
-
-
 function computation (x,y)
 disp('Function x[n]:'); disp(x); %dispalying the value of x[n]
 disp('Function y[n]:'); disp(y); %displaying the value of y[n]
